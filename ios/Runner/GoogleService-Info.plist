@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDkhrkAA-Y2KuUjQ4ZL-2VDeVLKINElu-Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1010474950271</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.crud</string>
+	<key>PROJECT_ID</key>
+	<string>flit-crud-1a1fc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flit-crud-1a1fc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1010474950271:ios:5eaf16f338d52c232f694a</string>
+</dict>
+</plist>
